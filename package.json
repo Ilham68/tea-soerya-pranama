@@ -1,0 +1,25 @@
+{
+  "name": "tea-soerya-pranama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilham68/tea-soerya-pranama.git"
+  },
+  "author": "Ilham68",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilham68/tea-soerya-pranama/issues"
+  },
+  "homepage": "https://github.com/Ilham68/tea-soerya-pranama#readme",
+  "dependencies": {
+    "tea-bool": "^1.1.1",
+    "tea-sekiro-shadows": "^1.0.0",
+    "tea-xl-itn": "^1.3.0",
+    "tea-zero-layer-2": "^1.0.0"
+  }
+}
